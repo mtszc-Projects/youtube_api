@@ -1,0 +1,6 @@
+*.conf
+*.log
+*.db
+*.tmp
+password.txt
+__pycache__/*
